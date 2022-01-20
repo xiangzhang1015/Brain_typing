@@ -1,6 +1,5 @@
 # Brain_typing
-## Codes for paper: 
-**<font size=4>Converting your thoughts to texts: Enabling brain typing via deep feature learning of eeg signals</font>**
+## Title: Converting your thoughts to texts: Enabling brain typing via deep feature learning of eeg signals
 
 **PDF: [PerCom2018](https://ieeexplore.ieee.org/abstract/document/8444575), [arXiv](https://arxiv.org/abs/1709.08820)**
 
