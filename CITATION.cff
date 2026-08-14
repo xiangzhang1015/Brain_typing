@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Brain Typing: Converting Your Thoughts to Texts via Deep Feature Learning of EEG Signals"
+abstract: >
+  A unified deep learning framework that leverages a joint convolutional recurrent neural
+  network to classify motor imagery EEG signals for brain-computer interface typing. The
+  model fuses CNN-extracted spatial features, RNN-captured temporal dependencies, and an
+  autoencoder layer for robustness to incomplete or corrupted signals. An XGBoost classifier
+  operates on the fused representations. The system achieves 95.53% classification accuracy
+  on a large-scale public EEG dataset and a lab-collected Emotiv dataset.
+authors:
+  - family-names: Zhang
+    given-names: Xiang
+    email: xiang.alan.zhang@gmail.com
+  - family-names: Yao
+    given-names: Lina
+  - family-names: Sheng
+    given-names: Quan Z.
+  - family-names: Kanhere
+    given-names: Salil S.
+  - family-names: Gu
+    given-names: Tao
+  - family-names: Zhang
+    given-names: Dalin
+preferred-citation:
+  type: conference-paper
+  title: "Converting Your Thoughts to Texts: Enabling Brain Typing via Deep Feature Learning of EEG Signals"
+  authors:
+    - family-names: Zhang
+      given-names: Xiang
+    - family-names: Yao
+      given-names: Lina
+    - family-names: Sheng
+      given-names: Quan Z.
+    - family-names: Kanhere
+      given-names: Salil S.
+    - family-names: Gu
+      given-names: Tao
+    - family-names: Zhang
+      given-names: Dalin
+  booktitle: "2018 IEEE International Conference on Pervasive Computing and Communications (PerCom)"
+  year: 2018
+  pages: "1--10"
+  publisher: IEEE
+  doi: 10.1109/PERCOM.2018.8444575
+  url: https://ieeexplore.ieee.org/abstract/document/8444575
